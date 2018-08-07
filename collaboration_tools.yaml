@@ -1,0 +1,32 @@
+hello:
+- ENC[AES256_GCM,data:+cjuAY/Zn5nZwk393oNL5tvpoA7YE5Vi,iv:rHrZYhKI4gN9eS/bIsVWdynvMmT4e2sP2z9BATK6VlE=,tag:HUZn/ZGOaUdNBEY81iP9qA==,type:str]
+- ENC[AES256_GCM,data:qPjYLkYiMZ3xzSMFtdxp0kFq0ZlmbdO3yI+C,iv:WJFFgcQu09w9GZELlK8B0wlyi0NiCrX7pWWziRzIpyA=,tag:lTWp2l5HfNEqR/Sl70xt5A==,type:str]
+- ENC[AES256_GCM,data:PZ6eDP7y7tAFgyUAJgEy1mB7sb8A4PyBkvRGG/8nuw==,iv:/d/P+he8K+AUIkaAJT4cqjNquUdUHs96J5Y9O/zJlFI=,tag:sTYpUEq2EJk+up6Z15sdBw==,type:str]
+sops:
+    kms: []
+    gcp_kms: []
+    lastmodified: '2018-08-07T20:30:15Z'
+    mac: ENC[AES256_GCM,data:JjTVzxTOdvQlzc1AVR8MHVyh+s2vPxrGo3Eg0nE5vvR/iIArUVNpqCH8PKVx7mXL8UwTa2OT1DIfJoc+vWbZQaOVlKIdLkYomyhT4AKWpsazSQXKP0hnmZri3LYnOCXd0lj8fX9fXljLR/NQfXPrNfM/5mBhP5danSU9zcHkbfM=,iv:xQOZg0E0BUKI6gNujHWwK1BQ43MFtmUgAYgSh0JBBCo=,tag:Tfj+JWtnGegG/k5NMVz2mg==,type:str]
+    pgp:
+    -   created_at: '2018-08-07T20:28:24Z'
+        enc: |
+            -----BEGIN PGP MESSAGE-----
+
+            hQIMA5NcFVWRiJyKARAAirFFrZp8SMzZe6ZXeyH+U47JAx6RUHA4O/3jZ/4NAOJQ
+            cuM+htub/gHFaNKAwzx1qJFw8wrUtTffnUyT/rqjjai1s1oSiBLFYTkp+j7BYCUf
+            Fe+ddbRi5AM3A+m+uF1evfYoGhgSJN57wrYZx8GeBUVIt/0tei1Hf54muM1HOASx
+            MsoF6O7PcAPtBteit1SfMDMfszDO8E7EbC7XW/6QicorbufiPP7ZWbudlmB/ct2D
+            euSLRjnyX+A34yDI8kG/HV7W0BLp/aWADw/qEzlFAvKoxikrajS45pMXor9i91nj
+            uahH12YEvIs26dCDraAyHid4CFcSbfeUF/NGRWWcUr4K1Vo/RE55WvIYYxAknJG8
+            343sMjQ/kBX6zQhTUzOfL96X/5u5MAAM3e3Ttz+FfO3mY1RjzlBLsbbuZ0htMc8I
+            HkxfGSpsWP5bqq+Sg5tCL9Rhx2+vXrqZphrqv5I57A93Z+MlyiL4/DGha41wLwoY
+            Jvexyv9YzLCvSIQgP/SNSn0yXdP6Au1LngVNlMvvydzUpJnWz1trHlGjr1fvRsvg
+            J73XMqcH9RDqdvVF+9Ue7Ft6zjmMENYz7cLWb6TzKoZmI5TMR9XOsT3wg+J+g/lq
+            BEI8Fyqp6uUVPT8xMEaaPXIS8kWr8MF2NDLpU38V3n0H+6Kq0ZYcZ+iIyzLIZHDS
+            XAGQh5zyJAt45Q+mAkbENOf/6Mg9XG2SqQdZp2va5MP7dUcjk24Y7eq0TDy/s1Va
+            h05tnafIuKRhRBWju3x3ksTovaxgBJlwXz1qQpWyA+ZNps+AOOlflph+plAD
+            =sadc
+            -----END PGP MESSAGE-----
+        fp: E720B9A16F14AE1D0966336461C6D34EFEAEE09B
+    unencrypted_suffix: _unencrypted
+    version: 3.0.3
